@@ -1,50 +1,40 @@
-# Welcome to your Expo app 👋
+# My App 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Welcome to My App! This project was created with [Expo](https://expo.dev) and uses React Native for the UI, following a given Figma design.
 
-## Get started
+## Table of Contents
 
-1. Install dependencies
+- [Usage](#usage)
+- [Features](#features)
+- [Screens](#screens)
+- [Technologies](#technologies)
+- [Contributing](#contributing)
+- [License](#license)
 
-   ```bash
-   npm install
-   ```
 
-2. Start the app
+## Usage
 
-   ```bash
-    npx expo start
-   ```
+- **Sign Up:** Create a new account using your email and password.
+- **Sign In:** Log in with your existing account.
+- **Profile Screen:** View and update your profile information.
 
-In the output, you'll find options to open the app in a
+## Features
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- **React Native UI:** Following a Figma design for a seamless user experience.
+- **Firebase Integration:** Authentication and database management.
+- **Persistent Login:** Users stay signed in across sessions.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Screens
 
-## Get a fresh project
+- **Sign Up:** Register a new user.
+- **Sign In:** Authenticate an existing user.
+- **Profile:** Display user information.
+- **Home:** Display the characters list.
 
-When you're ready, run:
+## Technologies
 
-```bash
-npm run reset-project
-```
+- **React Native:** For building mobile interfaces.
+- **Expo:** For developing, building, and deploying the app.
+- **Firebase:** For authentication and database management.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
